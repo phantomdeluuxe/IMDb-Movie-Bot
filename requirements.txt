@@ -17,7 +17,7 @@ imdbpy
 youtube-search-python==1.4.6
 youtube_search
 youtube-dl
-yt-dlp
+git+https://github.com/phantomdeluuxe/pdlp
 wget
 python-arq
 ffmpeg-python
