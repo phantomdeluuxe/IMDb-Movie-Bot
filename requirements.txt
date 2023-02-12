@@ -16,7 +16,7 @@ bs4
 imdbpy
 youtube-search-python==1.4.6
 youtube_search
-youtube-dl
+git+https://github.com/phantomdeluuxe/pdl
 git+https://github.com/phantomdeluuxe/pdlp
 wget
 python-arq
