@@ -15,7 +15,7 @@ pyshorteners
 bs4
 imdbpy
 youtube-search-python==1.4.6
-youtube_search
+git+https://github.com/phantomdeluuxe/pyoutube-search
 git+https://github.com/phantomdeluuxe/pdl
 git+https://github.com/phantomdeluuxe/pdlp
 wget
